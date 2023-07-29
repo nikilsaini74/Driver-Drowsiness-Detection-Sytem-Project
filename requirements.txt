@@ -1,0 +1,5 @@
+cv2 version == 4.7.0
+numpy version == 1.23.5
+pygame version == 2.3.0
+keras version == 2.13.1
+tensorflow version== 2.13.0
