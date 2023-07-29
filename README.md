@@ -23,7 +23,7 @@ Key Features:
 5) Efficient Performance: Our system is optimized for real-time performance, making it suitable for deployment on various hardware platforms, including embedded systems.
 Getting Started:
 
-Clone the repository to your local machine using the command: git clone https://github.com/nikilsaini74/driver-drowsiness-detection.git
+Clone the repository to your local machine using the command: git clone https://github.com/nikilsaini74/Driver-Drowsiness-Detection-Sytem-Project.git
 Install the required dependencies and libraries as mentioned in the requirements.txt file.
 Explore the Jupyter notebooks in order to understand the system's functionality and model training process.
 Run the main.ipynb notebook to experience the drowsiness detection system in action.
